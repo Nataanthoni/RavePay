@@ -10,8 +10,8 @@ import com.flutterwave.raveandroid.RavePayManager
 import kotlinx.android.synthetic.main.activity_pay_now.*
 
 
-private const val key = "a0ade2aed616589f2fdb43a6"
-private const val publickey = "FLWPUBK-2422c1fe613719718b4b839bae09edae-X"
+private const val key = "a0a300393f2fdb43a6"
+private const val publickey = "FLWP19713030339edae-X"
 
 class PayNow : AppCompatActivity() {
 
